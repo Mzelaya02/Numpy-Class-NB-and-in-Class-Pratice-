@@ -1,0 +1,1 @@
+# Numpy-Class-NB-and-in-Class-Pratice-
